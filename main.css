@@ -1,0 +1,15 @@
+.content{
+
+    text-align: center;
+}
+
+button{
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: green;
+}
+button:hover{
+    
+    background-color:red;
+}
